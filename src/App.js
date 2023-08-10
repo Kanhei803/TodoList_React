@@ -19,7 +19,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Todo List</h1>
+        <h1>Todo List (Updates)</h1>
         <Button className="btn btn-primary" onClick={openModal}>
           Add Task
         </Button>
